@@ -1,4 +1,4 @@
-# Antarctic_defense_islands
+# Antarctic defense islands
 
 
 ## Custom scripts:
